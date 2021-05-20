@@ -4,6 +4,9 @@
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
+!! This has been adapted to run on M1 ship for Mac Book Pro. 
+!! Issue is just with rocksdb issue on M1 -> so a special compiled version for M1 is used.
+
 ## Getting Started
 
 Follow the steps below to get started with the Node Template, or get it up and running right from your browser
